@@ -1,2 +1,2 @@
 # Poker
-Poker cards generator
+Poker table generator
